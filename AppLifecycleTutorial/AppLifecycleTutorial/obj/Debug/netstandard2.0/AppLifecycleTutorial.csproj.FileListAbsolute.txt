@@ -1,0 +1,15 @@
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.deps.json
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.AssemblyReference.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfoInputs.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfo.cs
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 25\1\Новая папка (2)\PR10\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.pdb
